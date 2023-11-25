@@ -25,7 +25,3 @@ List<YourObjectType> detectedObjects = GetComponent<FieldOfView>().Field<YourObj
 **Notes**
 - *Ensure the necessary colliders and tags are appropriately set up on the objects you want to detect within the field of view.*
 - *Make sure to handle the visibility checks and responses to detected objects as per your game or application requirements.*
-
-**License**
-This script is provided under the **MIT License**. Feel free to use and modify it based on your project needs.
-
